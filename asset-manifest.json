@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.cddd4ea6.js",
+    "static/js/787.4e0baae9.chunk.js": "/static/js/787.4e0baae9.chunk.js",
+    "static/media/2500-엉큰녀.mp3": "/static/media/2500-엉큰녀.77da50ccf3e5e9d58f8f.mp3",
+    "static/media/2200-립앤힙.mp3": "/static/media/2200-립앤힙.4f5f55fbad9c2e3b3ef2.mp3",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.cddd4ea6.js.map": "/static/js/main.cddd4ea6.js.map",
+    "787.4e0baae9.chunk.js.map": "/static/js/787.4e0baae9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cddd4ea6.js"
+  ]
+}
