@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sytestbuild/static/css/main.073c9b0a.css",
-    "main.js": "/sytestbuild/static/js/main.5aea2394.js",
+    "main.js": "/sytestbuild/static/js/main.b9254711.js",
     "static/js/787.4e0baae9.chunk.js": "/sytestbuild/static/js/787.4e0baae9.chunk.js",
     "static/media/2500-엉큰녀.mp3": "/sytestbuild/static/media/2500-엉큰녀.77da50ccf3e5e9d58f8f.mp3",
     "index.html": "/sytestbuild/index.html",
     "main.073c9b0a.css.map": "/sytestbuild/static/css/main.073c9b0a.css.map",
-    "main.5aea2394.js.map": "/sytestbuild/static/js/main.5aea2394.js.map",
+    "main.b9254711.js.map": "/sytestbuild/static/js/main.b9254711.js.map",
     "787.4e0baae9.chunk.js.map": "/sytestbuild/static/js/787.4e0baae9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5aea2394.js"
+    "static/js/main.b9254711.js"
   ]
 }
